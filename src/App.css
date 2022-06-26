@@ -1,0 +1,63 @@
+.product{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.brand{
+    display: flex;
+    flex-direction: row;
+
+} 
+.cost{
+    display: flex;
+    flex-direction: row;
+}
+.brand1{
+    width:20%
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+  }
+  
+
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container1 {
+    padding: 2px 16px;
+  }
+
+.cardWidth{
+    width: 20%;
+}
+
+.sell{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 1%;
+    border-style: solid;
+    border-width: 0.5px;
+}
+.formDetails{
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+}
+.inputBoxes{
+    width: 40%;
+    height : 40px;
+}
+.inputBoxesdesc{
+    width: 40%;
+    height : 100px;
+}
+
+
+
+
+
+
+
