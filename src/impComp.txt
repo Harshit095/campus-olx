@@ -1,0 +1,4 @@
+<div className="main-content">
+          <Navbar />
+        </div>
+        <Footer />
