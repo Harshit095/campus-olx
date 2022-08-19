@@ -11,6 +11,7 @@ const Card = () => {
           <div className="details">
             <span className="price">12,000</span>
             <span className="title">Table Fan</span>
+            <h1>yes</h1>
           </div>
         </div>
       </div>
