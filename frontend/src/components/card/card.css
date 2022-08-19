@@ -1,0 +1,22 @@
+.card {
+  width: 250px;
+  height: 150px;
+  background-color: blueviolet;
+}
+
+.cardContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.image {
+  flex: 4;
+}
+img {
+  object-fit: cover;
+  width: 90%;
+  height: 100%;
+}
+.details {
+  flex: 1;
+}
